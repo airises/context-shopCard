@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/context-shopCard/static/css/main.75e90eb8.css",
+    "main.js": "/context-shopCard/static/js/main.4c912b5c.js",
+    "index.html": "/context-shopCard/index.html",
+    "main.75e90eb8.css.map": "/context-shopCard/static/css/main.75e90eb8.css.map",
+    "main.4c912b5c.js.map": "/context-shopCard/static/js/main.4c912b5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75e90eb8.css",
+    "static/js/main.4c912b5c.js"
+  ]
+}
